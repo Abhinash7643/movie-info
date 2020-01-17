@@ -1,0 +1,1 @@
+package com.babrak.movieinfoservice.repository;import com.babrak.movieinfoservice.domail.MovieSummary;import org.springframework.data.jpa.repository.JpaRepository;import org.springframework.data.jpa.repository.Modifying;import org.springframework.data.jpa.repository.Query;public interface MovieSummaryRepository extends JpaRepository<MovieSummary, Long> {}
