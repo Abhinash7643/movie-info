@@ -1,4 +1,4 @@
-package com.babrak.movieinfoservice;
+package com.abhinash.movieinfoservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

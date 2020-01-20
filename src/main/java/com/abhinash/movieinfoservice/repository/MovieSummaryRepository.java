@@ -1,0 +1,1 @@
+package com.abhinash.movieinfoservice.repository;import com.abhinash.movieinfoservice.domail.MovieSummary;import org.springframework.data.jpa.repository.JpaRepository;public interface MovieSummaryRepository extends JpaRepository<MovieSummary, Long> {}
